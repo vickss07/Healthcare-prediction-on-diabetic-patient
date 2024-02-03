@@ -24,5 +24,12 @@ Follow these steps to utilize the Healthcare Prediction on Diabetic Patients pro
 2. **Open the Jupyter Notebook :** Launch Jupyter Notebook and open the **Healthcare_Prediction.ipynb** file. This notebook guides you through the data preprocessing, exploratory data analysis, and model training processes.
 3. **Run the Notebook :** Follow the instructions in the notebook to execute each code cell. The notebook will walk you through the steps of handling missing values, treating outliers, exploring data, and training various machine learning models for predicting diabetes in patients.
 
+## Results
+
+- **Data Preprocessing:** The project effectively handles missing values and outliers in the dataset, ensuring the quality and reliability of the data used for training.
+- **Machine Learning Models:** Several machine learning models, including Logistic Regression, Random Forest Classifier, Decision Tree Classifier, and K-Nearest Neighbors (KNN), are employed and evaluated.
+- **Model Evaluation:** The models are evaluated using metrics such as accuracy, mean squared error, precision, recall, and ROC-AUC. The results demonstrate the effectiveness of the models in predicting diabetes outcomes.
+- **Visualizations:** The project includes various visualizations, such as histograms, scatter plots, and pair plots, to provide insights into the relationships between different health indicators and the diabetes outcome.
+
 
  
